@@ -1,0 +1,5 @@
+user-name$ touch .gitignore
+then open .gitignore file and add /node_modules
+
+.gitignore
+/node_modules
